@@ -33,7 +33,7 @@ for i in range(0, len(lines)):
 		
 		is_valid = True
 		cur_key_set = set()
-		continue
+		
 	
 	
 	
